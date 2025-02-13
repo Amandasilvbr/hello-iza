@@ -1,0 +1,1 @@
+// 7- Escreva uma função que recebe uma string como entrada e retorna uma nova string que é a versão invertida da original.

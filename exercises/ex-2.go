@@ -1,0 +1,1 @@
+// 2- Modifique o programa anterior para imprimir um triângulo de asteriscos invertido;

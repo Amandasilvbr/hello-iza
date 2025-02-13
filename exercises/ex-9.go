@@ -1,0 +1,1 @@
+// 9- Escreva uma função que recebe a largura e altura de um retângulo como entrada e retorna a sua área.

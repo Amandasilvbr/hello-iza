@@ -1,0 +1,1 @@
+// 3- Crie uma função personalizada que recebe um número inteiro positivo como entrada. A função deve retornar o resultado de uma operação qualquer realizada com esse número. No entanto, se o número de entrada for negativo, a função deve retornar um erro indicando que um número negativo foi fornecido.

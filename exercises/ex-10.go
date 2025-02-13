@@ -1,0 +1,1 @@
+// 10- Escreva uma função que recebe um número como entrada e verifica se ele é positivo, negativo ou zero. A função deve retornar uma mensagem indicando o resultado.

@@ -1,0 +1,1 @@
+// 8- Escreva uma função que recebe uma lista de números inteiros como entrada e retorna o valor máximo e mínimo encontrados nessa lista.

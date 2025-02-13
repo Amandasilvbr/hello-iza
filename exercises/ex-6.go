@@ -1,0 +1,1 @@
+// 6- Escreva uma função que recebe uma string como entrada e conta o número de vogais presentes nessa string. Considere vogais apenas as letras "a", "e", "i", "o" e "u".

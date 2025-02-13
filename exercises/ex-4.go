@@ -1,0 +1,1 @@
+// 4- Escreva um programa em Go que utilize uma estrutura de dados map para armazenar nomes de pessoas como chaves e suas idades como valores. Imprima o mapa completo.
